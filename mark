@@ -1,0 +1,31 @@
+语法： 	迭代器，@装饰器，yield，socket
+
+数据： 	MySQL，MongoDB，(Redis)
+
+运维： 	nginx，uwsgi, (分布式系统)
+
+系统： 	Ubuntu, shell(, docker)
+
+框架：	flask(，Django, Tornado)
+
+前端：	HTML，CSS，JavaScript，jQuery，bootstrap
+
+游戏：	Egret
+
+计划： 	flask
+			bootstrap
+				HTML
+				CSS
+				jQuery
+			Javastript
+			nginx
+
+		egret
+			typescript <————
+
+==================================
+
+2017/9/25：
+	// xshoot, quiz 部署到正式服务器
+2017/9/25：
+	xfish 到正式环境

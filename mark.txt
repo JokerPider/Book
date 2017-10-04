@@ -1,4 +1,4 @@
-语法： 	迭代器，@装饰器，yield，socket
+﻿语法： 	迭代器，@装饰器，yield，socket
 
 数据： 	MySQL，MongoDB，(Redis)
 
@@ -28,4 +28,6 @@
 2017/9/25：
 	// xshoot, quiz 部署到正式服务器
 2017/9/25：
-	xfish 到正式环境
+	部署 xfish
+2017/9/28:
+	部署 xmouse

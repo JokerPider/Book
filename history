@@ -1,0 +1,1000 @@
+ 1000  chiki create_project https://github.com/endsh/cookiecutter-chiki.git -w
+ 1001  cd xstar
+ 1002  ls
+ 1003  git init
+ 1004  git remote add origin git@gitlab.com:xiaoku/xstar.git
+ 1005  git stat
+ 1006  git status
+ 1007  git add.
+ 1008  git add .
+ 1009  git commit -m 'init'
+ 1010  git push
+ 1011  git lg
+ 1012  cd ..
+ 1013  git clone git@gitlab.com:xiaoku/xstar.git
+ 1014  cd xstar
+ 1015  git add .
+ 1016  git commit -m 'update'
+ 1017  git push
+ 1018  git lg
+ 1019  ls
+ 1020  chiki admin -rd
+ 1021  cd ..
+ 1022  chiki create_project https://github.com/endsh/cookiecutter-chiki.git -w
+ 1023  cd simple/
+ 1024  chiki admin -rd
+ 1025  mongo
+ 1026  chiki admin -rd
+ 1027  cd ../xfish
+ 1028  git lg
+ 1029  git reset --hard d3c715a
+ 1030  chiki admin -rd
+ 1031  cd ../xstar
+ 1032  chiki admin -rd
+ 1033  cd ../xmouse/
+ 1034  chiki admin -rd
+ 1035  cd ..
+ 1036  ls
+ 1037  rm simple/ -rf
+ 1038  ls
+ 1039  chiki create_project https://github.com/endsh/cookiecutter-chiki.git 
+ 1040  cd simple/
+ 1041  chiki admin -rd
+ 1042  cd ..&& rm -rf simple
+ 1043  ls
+ 1044  rm huajiao fish shoot_frontend -rf
+ 1045  ls
+ 1046  rm farm_fronted fish_egret -rf
+ 1047  ls
+ 1048  rm werobot_session 
+ 1049  ls
+ 1050  clear
+ 1051  cd xstar
+ 1052  chiki admin -rd
+ 1053  mongo
+ 1054  cd ../xfish
+ 1055  chiki admin -rd
+ 1056  cd ../xstar && chiki admin -rd
+ 1057  cd ..
+ 1058  cd xstar/
+ 1059  workon dev
+ 1060  cd ../xfish
+ 1061  git pull
+ 1062  git lg
+ 1063  cd ../xstar
+ 1064  git commit -m 'update'
+ 1065  git add .
+ 1066  git commit -m 'update'
+ 1067  git pull
+ 1068  git push
+ 1069  git lg
+ 1070  git init
+ 1071  git add .
+ 1072  git commit -m 'init'
+ 1073  git remote add origin https://github.com/JokerPider/Book.git
+ 1074  git push -u origin master
+ 1075  git lg
+ 1076  git clone https://github.com/JokerPider/picture.git
+ 1077  cd picture/
+ 1078  git add .
+ 1079  git commit -m 'upadte'
+ 1080  git push
+ 1081  git lg
+ 1082  workon dev
+ 1083  chiki
+ 1084  chiki -?
+ 1085  chiki --help
+ 1086  chiki renserver
+ 1087  chiki runserver
+ 1088  cd git/web
+ 1089  cd xfish
+ 1090  chiki runserver
+ 1091  chiki -?
+ 1092  cd ../xstar
+ 1093  git push
+ 1094  git lg
+ 1095  cd ..
+ 1096  ls
+ 1097  cd ~/git/web
+ 1098  lg
+ 1099  ls
+ 1100  git clone git@gitlab.com:xiaoku/xstar.git
+ 1101  cd xstar/
+ 1102  ls
+ 1103  git lg
+ 1104  cd ../xfish
+ 1105  chiki web -rd
+ 1106  cd
+ 1107  cd Desktop/
+ 1108  ls
+ 1109  python aaaa.py 
+ 1110  cd ~/git/web/xstar
+ 1111  ls
+ 1112  chiki admin -rd
+ 1113  chiki web -rd
+ 1114  workon dev
+ 1115  chiki admin -rd
+ 1116  mongo
+ 1117  workon dev
+ 1118  ipython
+ 1119  python3
+ 1120  cd git/web/xstar
+ 1121  ls
+ 1122  git commit -m 'update'
+ 1123  git commit -am 'update'
+ 1124  git push
+ 1125  git lg
+ 1126  git commit -am 'update'
+ 1127  git push
+ 1128  git pull
+ 1129  workon dev
+ 1130  chiki admin -rd
+ 1131  mongo
+ 1132  chiki web -rd
+ 1133  git commit -am '签到'
+ 1134  git pull
+ 1135  git push
+ 1136  git pull
+ 1137  git status
+ 1138  git add .
+ 1139  git lg
+ 1140  git commit -am 'update'
+ 1141  git pull
+ 1142  git push
+ 1143  git lg
+ 1144  chiki web -rd
+ 1145  git status
+ 1146  git commit -am 'update'
+ 1147  git push
+ 1148  git lg
+ 1149  chiki admin -rd
+ 1150  cd ../xshoot
+ 1151  git pull
+ 1152  chiki admin -rd
+ 1153  git commit -am 'update'
+ 1154  git push
+ 1155  cd ../xfish
+ 1156  git pull
+ 1157  cd ../xstar
+ 1158  chiki web -rd
+ 1159  git pull
+ 1160  git commit -am 'update'
+ 1161  git pull
+ 1162  git push
+ 1163  git lg
+ 1164  chiki web -rd
+ 1165  git commit -am 'update'
+ 1166  git push
+ 1167  git lg
+ 1168  git status
+ 1169  workon dev
+ 1170  chiki admin -rd
+ 1171  ipython
+ 1172  mongo
+ 1173  python 
+ 1174  ipython
+ 1175  mongo
+ 1176  ipython
+ 1177  cd git/web/xstar
+ 1178  workon de
+ 1179  workon dev
+ 1180  chiki web -rd
+ 1181  git commit -am 'update'
+ 1182  git push
+ 1183  git lg
+ 1184  ipython
+ 1185  exi
+ 1186  exit
+ 1187  mong
+ 1188  mongo
+ 1189  workon dev
+ 1190  git add .
+ 1191  git commit -am 'update'
+ 1192  git pull
+ 1193  git push
+ 1194  git lg
+ 1195  git commit -am 'update'
+ 1196  git push
+ 1197  exit
+ 1198  workon dev
+ 1199  chiki admin -rd
+ 1200  cd ..&& git clone git@gitlab.com:xiaoku/kaotuan.git
+ 1201  cd kaotuan/
+ 1202  ls
+ 1203  python manage.py 
+ 1204  ipython
+ 1205  clear
+ 1206  ipython
+ 1207  cd ../xstar
+ 1208  chiki service ranking -m all
+ 1209  mongo
+ 1210  chiki service ranking -m all
+ 1211  exit
+ 1212  workon dev
+ 1213  chiki admin -rd
+ 1214  cd ../../demo/flask-api-reload/
+ 1215  touch chiki-api
+ 1216  cd ../../web/star
+ 1217  cd ../../web/xstar
+ 1218  git pull
+ 1219  git checkout .
+ 1220  git pull
+ 1221  chiki web -rd
+ 1222  chiki admin -rd
+ 1223  exit
+ 1224  workon dev
+ 1225  git lg
+ 1226  git status
+ 1227  git push
+ 1228  git pull
+ 1229  cd deploy/
+ 1230  cd ../../xfish
+ 1231  cd deploy/
+ 1232  cd ..&& git pull
+ 1233  cd deploy/
+ 1234  ls
+ 1235  fab all
+ 1236  fab restart restart_back
+ 1237  fab nginx restart restart_back
+ 1238  fab all
+ 1239  fab restar restart_back
+ 1240  fab sdist restart restart_back
+ 1241  fab tail_log
+ 1242  fab tail_log:admin
+ 1243  fab nginx restart restart_back
+ 1244  fab tail_log:admin
+ 1245  fab nginx restart restart_back
+ 1246  fab tail_log:admin
+ 1247  fab nginx restart restart_back
+ 1248  fab ssh
+ 1249  fab sdist restart restart_back
+ 1250  fab ssh
+ 1251  fab create_env
+ 1252  fab ssh
+ 1253  fab deploy
+ 1254  fab ssh
+ 1255  fab create_env restart restart_back
+ 1256  cd ../../x
+ 1257  cd ../..
+ 1258  cd xstar
+ 1259  ls
+ 1260  cd deploy/
+ 1261  ls
+ 1262  fab all
+ 1263  fab ssh
+ 1264  fab pip
+ 1265  ssh
+ 1266  fab ssh
+ 1267  fab sdist nginx
+ 1268  fab nginx
+ 1269  fab restart restart_back
+ 1270  fab init
+ 1271  fab  nginx restart restart_back
+ 1272  fab ssh
+ 1273  workon dev
+ 1274  fab nginx
+ 1275  fab restart restart_back
+ 1276  fab init
+ 1277  fab create_env
+ 1278  fab pip
+ 1279  fab deploy
+ 1280  fab pip
+ 1281  fab ssh
+ 1282  wokron dev
+ 1283  workon dev
+ 1284  fab pip
+ 1285  fab ssh
+ 1286  fab pip
+ 1287  fab ssh
+ 1288  fab pip
+ 1289  fab nginx restart restart_back
+ 1290  fab ssh
+ 1291  fab create_env
+ 1292  fab sdist
+ 1293  fab ssh
+ 1294  fab sdist
+ 1295  fab pip deploy
+ 1296  fab nginx restart restart_back
+ 1297  fab tail_log
+ 1298  fab sdist 
+ 1299  ssh root@112.74.183.236
+ 1300  ssh dev@112.74.183.236
+ 1301  sshpass -p Jiaqing520 scp dev@112.74.183.236:/home/dev/dist/xstar.tar.gz /home/xstar.tar.gz
+ 1302  sudo apt-install sshpass
+ 1303  sudo apt-get install sshpass
+ 1304  sshpass -p Jiaqing520 scp dev@112.74.183.236:/home/dev/dist/xstar.tar.gz /home/xstar.tar.gz
+ 1305  sshpass -p Jiaqing520 scp dev@112.74.183.236:/home/dev/dist/xstar.tar.gz /home/dev/xstar.tar.gz
+ 1306  ls -al ~
+ 1307  sshpass -p Jiaqing520 scp dev@112.74.183.236:/home/dev/dist/xstar.tar.gz /home/dev
+ 1308  fab update
+ 1309  fab ssh
+ 1310  fab sdist
+ 1311  fab ssh
+ 1312  fab sdist
+ 1313  fab ssh
+ 1314  git status
+ 1315  git add .
+ 1316  git status
+ 1317  git add ../requirements/prod.txt 
+ 1318  git commit -m "update"
+ 1319  git push origin master
+ 1320  fab restart restart_back
+ 1321  fab tail_log
+ 1322  fab deploy
+ 1323  fab restart restart_back
+ 1324  fab tail_log
+ 1325  fab nginx restart restart_back
+ 1326  fab sdist
+ 1327  fab restart restart_back
+ 1328  fab nginx restart restart_back
+ 1329  fab nginx
+ 1330  fab create_env restart restart_back
+ 1331  fab ssh
+ 1332  fab create_env restart restart_back
+ 1333  git status
+ 1334  git add .
+ 1335  git commit -m 'update'
+ 1336  git push
+ 1337  fab nginx restart restart_back
+ 1338  git lg
+ 1339  git pull
+ 1340  fab create_env restart restart_back
+ 1341  fab sdist restart restart_back
+ 1342  exit
+ 1343  git clone git@gitlab.com:xiaoku/x4399.git
+ 1344  unzip 中秋啊.zip 
+ 1345  git clone git@gitlab.com:xiaoku/spin.git
+ 1346  workon dev
+ 1347  cd xplant/ && chiki web
+ 1348  cd xplant/ && chiki web -rd
+ 1349  chiki web -rd
+ 1350  workon dev
+ 1351  chiki admin -rd
+ 1352  cd deploy/
+ 1353  fab sdist
+ 1354  fab restart restart_back
+ 1355  workon dev
+ 1356  chiki web -rd
+ 1357  cd ../xshoot && chiki web -rd
+ 1358  chiki web -rd
+ 1359  cd ../xfish && chiki admin -rd
+ 1360  workon dev
+ 1361  chiki admin -rd
+ 1362  cd ../xshoot && chiki admin -rd
+ 1363  cd ../chiki && python setup.py install
+ 1364  cd ../simi && python setup.py install
+ 1365  cd ../xshoot
+ 1366  chiki admin -rd
+ 1367  workon dev
+ 1368  chiki web -rd
+ 1369  cd ../chiki
+ 1370  chiki pull
+ 1371  git pull
+ 1372  git lg
+ 1373  ls
+ 1374  python setup.py install
+ 1375  cd ../
+ 1376  cd spin
+ 1377  ls
+ 1378  chiki web -rd
+ 1379  git commit -m 'update'
+ 1380  git add .
+ 1381  git commit -m 'update'
+ 1382  git push
+ 1383  git lg
+ 1384  cd deploy/
+ 1385  fab sdist create_env restart restart_back
+ 1386  exit
+ 1387  workon dev
+ 1388  chiki admin -rd
+ 1389  cd ..&&chiki admin -rd
+ 1390  mongo
+ 1391  chiki admin -rd
+ 1392  exit
+ 1393  workon dev
+ 1394  cd git/web/spin
+ 1395  git lg
+ 1396  git pull
+ 1397  git lg
+ 1398  git pull
+ 1399  git lg
+ 1400  git pull
+ 1401  git lg
+ 1402  git checkout .
+ 1403  git pull
+ 1404  chiki admin -rd
+ 1405  git status
+ 1406  git commit -m 'update'
+ 1407  git add .
+ 1408  git commit -m 'update'
+ 1409  git push
+ 1410  cd deploy/ && fab all
+ 1411  fab nginx
+ 1412  fab tail_log
+ 1413  fab tail_log:admin
+ 1414  fab tail_log
+ 1415  fab ssh
+ 1416  ls
+ 1417  fab ssh
+ 1418  fab tail_log
+ 1419  fab restart restart_back
+ 1420  fab tail_log
+ 1421  fab media
+ 1422  fab fab nginx_puppet_remove
+ 1423  fab  nginx_puppet_remove
+ 1424  fab  nginx_puppet
+ 1425  fab  nginx_puppet:True
+ 1426  fab  nginx_puppet:True -P
+ 1427  fab  nginx_puppet_remove -P
+ 1428  fab  nginx_puppet
+ 1429  ssh root@120.78.79.127
+ 1430  fab nginx_puppet_conf
+ 1431  fab  nginx_puppet
+ 1432  ssh root@120.78.79.127
+ 1433  fab  nginx_puppet
+ 1434  fab nginx_front
+ 1435  fab ssh
+ 1436  fab nginx nginx_front
+ 1437  fab ssh
+ 1438  fab nginx nginx_front
+ 1439  fab nginx
+ 1440  ping a.lufamily.cn
+ 1441  fab nginx_front
+ 1442  fab ssh
+ 1443  telnet
+ 1444  telnet 120.78.80.119 22
+ 1445  telnet 120.78.80.119 22 10172
+ 1446  telnet 120.78.80.119 10172
+ 1447  workon dev
+ 1448  fab ssh
+ 1449  fab nginx nginx_front
+ 1450  fab sdist:copy=True,media="data/fonts data/spin media/web/dist"
+ 1451  fab  restart restart_back
+ 1452  git commit -m 'update'
+ 1453  git add .
+ 1454  git commit -m 'update'
+ 1455  git push
+ 1456  workon dev
+ 1457  git pull
+ 1458  git lg
+ 1459  git pull
+ 1460  workon dv
+ 1461  workon dev
+ 1462  cd deploy/
+ 1463  fab tail_log
+ 1464  fab tail_log:web
+ 1465  fab tail_log:admin
+ 1466  cd ..&&chiki admin -rd
+ 1467  chiki web -rd
+ 1468  cd .. && git clone git@gitlab.com:xiaoku/quiz.git
+ 1469  cd quiz
+ 1470  ls
+ 1471  chiki admin -rd
+ 1472  workon dev
+ 1473  cd ../xfish&&chiki web -rd
+ 1474  workon dev
+ 1475  chiki admin -rd
+ 1476  workon dev
+ 1477  chiki web -rd
+ 1478  git add .
+ 1479  git commit -m 'update'
+ 1480  git push
+ 1481  git lg
+ 1482  cd deploy/
+ 1483  fab all
+ 1484  fab init
+ 1485  fab ssh
+ 1486  workon dev
+ 1487  fab create_env
+ 1488  fab ssh
+ 1489  fab pip
+ 1490  fab ssh
+ 1491  fab pip
+ 1492  fab create_env
+ 1493  fab pip
+ 1494  fab ssh
+ 1495  fab pip
+ 1496  history 
+ 1497  history | grep pip
+ 1498  fab ssh
+ 1499  fab pip
+ 1500  fab ssh
+ 1501  fab pip
+ 1502  fab ssh
+ 1503  fab pip
+ 1504  fab ssh
+ 1505  fab pip
+ 1506  fab deploy
+ 1507  fab nginx
+ 1508  fab restart restart_back
+ 1509  fab tail_log
+ 1510  fab ssh
+ 1511  fab restart restart_back
+ 1512  fab tail_log
+ 1513  fab ssh
+ 1514  fab restart restart_back
+ 1515  fab tail_log
+ 1516  fab nginx restart restart_back
+ 1517  fab tail_log
+ 1518  fab ssh
+ 1519  fab restart restart_back
+ 1520  fab tail_log
+ 1521  cd ..
+ 1522  chiki admin -rd
+ 1523  chiki web -rd
+ 1524  cd deploy/
+ 1525  fab nginx restart restart_back
+ 1526  fab tail_log
+ 1527  git commit -m 'update'
+ 1528  git add .
+ 1529  git commit -m 'update'
+ 1530  git push
+ 1531  git lg
+ 1532  git push origin/master
+ 1533  git lg
+ 1534  git commit -m 'update'
+ 1535  git pull
+ 1536  git lg
+ 1537  fab nginx restart restart_back
+ 1538  fab nginx sdist restart restart_back
+ 1539  fab tail_log
+ 1540  cd ../../xfish/deploy/
+ 1541  fab tail_log
+ 1542  cd ../..
+ 1543  ls
+ 1544  cd quiz
+ 1545  cd deploy/
+ 1546  fab tail_log
+ 1547  fab create_env restart restart_back
+ 1548  fab tail_log
+ 1549  fab nginx create_env restart restart_back
+ 1550  fab create_env restart restart_back
+ 1551  git status
+ 1552  git add .
+ 1553  git commit -m 'update'
+ 1554  git puhs
+ 1555  git push
+ 1556  git lg
+ 1557  git pull
+ 1558  git push
+ 1559  git lg
+ 1560  git pull
+ 1561  git lg
+ 1562  git status
+ 1563  cd ..
+ 1564  git status
+ 1565  git add .
+ 1566  git commit -m "update"
+ 1567  git push origin master
+ 1568  git status
+ 1569  git push origin master
+ 1570  git clone git@gitlab.com:xiaoku/farm.git
+ 1571  cd farm
+ 1572  workon dev
+ 1573  chiki web -rd
+ 1574  manage web -rd
+ 1575  ls
+ 1576  python manage.py web -rd
+ 1577  workon dev
+ 1578  python manage.py admin -rd
+ 1579  mongo
+ 1580  git status
+ 1581  git checkout .
+ 1582  git pull
+ 1583  git lg
+ 1584  workon dev
+ 1585  ipython
+ 1586  chiki -h
+ 1587  chiki manager
+ 1588  chiki admin
+ 1589  chiki manager admin
+ 1590  manager admin
+ 1591  chiki web -rd
+ 1592  exit
+ 1593  workon dev
+ 1594  git pull
+ 1595  workon dev
+ 1596  cd quiz/&& git pull
+ 1597  cd ../simi&&git pull
+ 1598  cd ../quiz/&& git lg
+ 1599  chiki web -rd
+ 1600  cd ../chiki&& git pull
+ 1601  python setup.py install
+ 1602  cd ../quiz/&& chiki web -rd
+ 1603  cd ../simi&& python setup.py install
+ 1604  cd ../quiz/&& chiki web -rd
+ 1605  chiki web -rd
+ 1606  cd
+ 1607  cd git/web/
+ 1608  git clone git@gitlab.com:xiaoku/quiz.git
+ 1609  cd quiz/
+ 1610  workon dev
+ 1611  chiki web -d -r
+ 1612  workon dev
+ 1613  chiki web -d -r
+ 1614  cd
+ 1615  cd git/web/quiz/
+ 1616  workon dev
+ 1617  chiki web -d -r
+ 1618  workon dev
+ 1619  chiki web -d -r
+ 1620  cd simi
+ 1621  cd
+ 1622  cd git/web/simi/
+ 1623  workon dev
+ 1624  git pull
+ 1625  python setup.py install
+ 1626  workon dev
+ 1627  chiki web -d -r
+ 1628  workon dev
+ 1629  chiki admin -d -r
+ 1630  mongo
+ 1631  workon dev
+ 1632  chiki web -rd
+ 1633  chiki admin -rd
+ 1634  git commit -m 'update'
+ 1635  git add .
+ 1636  git commit -m 'update'
+ 1637  git push
+ 1638  git lg
+ 1639  git pull
+ 1640  git push
+ 1641  git lg
+ 1642  chiki admin -rd
+ 1643  cd deploy/&& fab sdist 
+ 1644  fab sdist restart restart_back
+ 1645  chiki admin -rd
+ 1646  cd ../chiki admin -rd
+ 1647  de ..
+ 1648  cd .. && chiki admin -rd
+ 1649  cd ../farm
+ 1650  chiki admin -rd
+ 1651  ls
+ 1652  python manage.py admin -rd
+ 1653  workon dev && cd ../quiz && chiki admin -rd
+ 1654  workon dev
+ 1655  cd ../farm && chiki admin -rd
+ 1656  python manage.py admin -rd
+ 1657  git checkout .
+ 1658  git pull
+ 1659  python manage.py admin -rd
+ 1660  workon dev
+ 1661  python manage.py service xresult
+ 1662  workon dev
+ 1663  chiki admin -rd
+ 1664  git commit -m 'update'
+ 1665  git add .
+ 1666  git commit -m 'update'
+ 1667  git  lg
+ 1668  git lg
+ 1669  git status
+ 1670  git pull
+ 1671  git push
+ 1672  git pull
+ 1673  git commit -m 'update'
+ 1674  git push
+ 1675  git lg
+ 1676  git status
+ 1677  git add .
+ 1678  git commit -m 'update'
+ 1679  git pull
+ 1680  git push
+ 1681  git lg
+ 1682  ce deploy/
+ 1683  cd deploy/
+ 1684  fab sdist restart restart_back
+ 1685  cd ..
+ 1686  git pull
+ 1687  chiki admin -rd
+ 1688  git commit -m 'update'
+ 1689  git add .
+ 1690  git commit -m 'update'
+ 1691  git pull
+ 1692  git push
+ 1693  git statusd
+ 1694  git status
+ 1695  git add .
+ 1696  git commit -m 'update'
+ 1697  git pull
+ 1698  git push
+ 1699  git lg
+ 1700  cd deploy/
+ 1701  fab sdist
+ 1702  fab restart restart_back
+ 1703  cd ..&&chiki admin -rd
+ 1704  git lg
+ 1705  chiki admin -rd
+ 1706  git commit -m 'update'
+ 1707  git add .
+ 1708  git commit -m 'update'
+ 1709  git pull
+ 1710  git push
+ 1711  git lg
+ 1712  chiki admin -rd
+ 1713  cd deploy/ && fab sdist restart restart_back
+ 1714  cd .. && chiki admin -rd
+ 1715  workon dev
+ 1716  chiki service result 
+ 1717  cd git/web/quiz/deploy/ && fab restart restart_back
+ 1718  workon dev
+ 1719  fab restart restart_back
+ 1720  cd ..
+ 1721  chiki service recover
+ 1722  de deploy/
+ 1723  cd deploy/
+ 1724  git commit -m 'update'
+ 1725  git add .
+ 1726  git commit -m 'update'
+ 1727  cd ..
+ 1728  git add .
+ 1729  git commit -m 'update'
+ 1730  git push
+ 1731  git lg
+ 1732  cd deploy/
+ 1733  fab sdist
+ 1734  fab restart restart_back
+ 1735  cd ..&& chiki admin -rd
+ 1736  cd quiz/ && chiki admin -rd
+ 1737  cd ..
+ 1738  chiki admin -rd
+ 1739  git commit -m 'update'
+ 1740  git add .
+ 1741  git commit -m 'update'
+ 1742  git push
+ 1743  cd deploy/ && fab sdist restart restart_back
+ 1744  nginx -v
+ 1745  nginx -t
+ 1746  who
+ 1747  pwd
+ 1748  vim test.sh
+ 1749  sudo apt-get install vim
+ 1750  vim test.sh
+ 1751  ls
+ 1752  chmod +x test.sh
+ 1753  ./test.sh
+ 1754  vim /etc/shells
+ 1755  vim test.sh
+ 1756  ./test.sh 
+ 1757  unzip bootstrap-4.0.0-beta.zip 
+ 1758  unzip bootstrap-4.0.0-beta-dist.zip 
+ 1759  cd 
+ 1760  cd git/web/farm
+ 1761  ls
+ 1762  git pull
+ 1763  git checkout .
+ 1764  git pull
+ 1765  git checkout .
+ 1766  git status
+ 1767  git pull origin master
+ 1768  git push origin master
+ 1769  git add .
+ 1770  git commit -m 'update'
+ 1771  git push
+ 1772  git status
+ 1773  git lg
+ 1774  workon dev
+ 1775  git pull
+ 1776  git commit -m 'update'
+ 1777  git add . && git commit -m 'update'
+ 1778  git push
+ 1779  cd deploy/ && fab sdist restart restart_back
+ 1780  workon dev
+ 1781  cd ..
+ 1782  chiki web -d -r
+ 1783  workon dev
+ 1784  cd git/web/xfish/
+ 1785  git pull
+ 1786  cd ../farm && git pull
+ 1787  cd ../quiz/ && git pull
+ 1788  cd ../xfish
+ 1789  git add .
+ 1790  git commit -m 'update'
+ 1791  git push
+ 1792  git lg
+ 1793  git pull
+ 1794  cd deploy/ 
+ 1795  fab create_env pip deploy
+ 1796  fab tail_log
+ 1797  fab chiki
+ 1798  fab setup
+ 1799  fab create_env
+ 1800  fab pip
+ 1801  fab deploy
+ 1802  fab ssh
+ 1803  fab create_env pip deploy
+ 1804  fab ssh
+ 1805  cd ../../farm/deploy/
+ 1806  fab ssh
+ 1807  cd ../../xfish/deploy/
+ 1808  fab create_env pip deploy
+ 1809  fab ssh
+ 1810  fab create_env pip deploy
+ 1811  fab ssh
+ 1812  fab cmd:"deactivate && rmvirtualenv xfish" -R web 
+ 1813  fab create_env
+ 1814  ls
+ 1815  fab cmd:"pip uninstall -y setuptools && pip install setuptools\=\=35.0.1" -R web
+ 1816  fab pip
+ 1817  fab deploy
+ 1818  history
+ 1819  cd 
+ 1820  ls
+ 1821  cd Desktop/ && history > history
+ 1822  ls
+ 1823  fab tail_log
+ 1824  cd ~/git/web/xfish/deploy/ && fab tail_log
+ 1825  fab start start_back
+ 1826  fab tail_log
+ 1827  cd ..
+ 1828  git add .
+ 1829  git commit -m 'update'
+ 1830  git push
+ 1831  git pull
+ 1832  cd ../farm && git pull
+ 1833  cd ../fish
+ 1834  cd ../xfish/
+ 1835  git pull
+ 1836  chiki admin -rd
+ 1837  cd ../chiki
+ 1838  git pull
+ 1839  cd ../simi
+ 1840  git pull
+ 1841  python setup.py install
+ 1842  cd ../xfish
+ 1843  chiki admin -rd
+ 1844  git add .
+ 1845  git commit -m 'update'
+ 1846  git push
+ 1847  cd deploy/
+ 1848  fab sdist restart restart_back
+ 1849  cd git/web/xfish/ && git pull
+ 1850  workon dev
+ 1851  cd ../xshoot
+ 1852  git pull
+ 1853  git add .
+ 1854  git commit -m 'update'
+ 1855  git push
+ 1856  git status
+ 1857  git lg
+ 1858  git commit -m 'update'
+ 1859  git add .
+ 1860  git commit -m 'update'
+ 1861  git push
+ 1862  cd deploy/
+ 1863  fab create_env
+ 1864  fab pip
+ 1865  fab ssh
+ 1866  fab cmd:"pip list"
+ 1867  fab pip
+ 1868  fab ssh
+ 1869  fab pip
+ 1870  fab deploy
+ 1871  fab start start_back
+ 1872  fab tail_log
+ 1873  fab ssh
+ 1874  fab restart restart_back
+ 1875  fab tail_log
+ 1876  fab ssh
+ 1877  fab restart restart_back
+ 1878  fab tail_log
+ 1879  cd ../../xfish/ && git pull
+ 1880  cd ..
+ 1881  cd xshoot
+ 1882  cd deploy/
+ 1883  fab nginx
+ 1884  fab restart restart_back
+ 1885  fab nginx restart restart_back
+ 1886  git add .
+ 1887  git commit -m 'update'
+ 1888  git push
+ 1889  fab nginx restart restart_back
+ 1890  fab tail_log
+ 1891  fab nginx
+ 1892  ssh root@120.78.80.119
+ 1893  fab nginx
+ 1894  fab nginx_front
+ 1895  fab create_env sdist restart restart_back
+ 1896  git add .&& git commit -m 'update'
+ 1897  git push
+ 1898  git lg
+ 1899  ipython
+ 1900  cd ../../farm/
+ 1901  git pull
+ 1902  workon dev
+ 1903  cd git/web 
+ 1904  git clone git@gitlab.com:xiaoku/xmouse.git
+ 1905  cd xmouse/
+ 1906  git pull
+ 1907  cd deploy/
+ 1908  git add .
+ 1909  git commit -m 'update'
+ 1910  fab s:common create_env 
+ 1911  fab s:common pip
+ 1912  fab s:common ssh
+ 1913  fab s:common create_env
+ 1914  fab s:common ssh
+ 1915  fab s:common pip
+ 1916  fab s:common ssh
+ 1917  fab s:common create_env
+ 1918  fab s:common pip
+ 1919  fab s:common ssh
+ 1920  fab s:common pip
+ 1921  fab s:common ssh
+ 1922  fab s:common pip
+ 1923  fab s:common deploy
+ 1924  fab s:common ssh
+ 1925  fab s:common deploy
+ 1926  fab s:common nignx nginx_front
+ 1927  fab s:common nginx nginx_front
+ 1928  ls
+ 1929  fab s:common start start_back
+ 1930  fab s:common tail_log:admin
+ 1931  fab s:common tail_log:tail_log
+ 1932  fab s:common tail_log:uwsgi.admin
+ 1933  fab s:common ssh
+ 1934  fab s:common crontab
+ 1935  fab s:common restart restart_back
+ 1936  fab s:common tail_log
+ 1937  fab s:common ssh
+ 1938  fab s:common restart restart_back
+ 1939  fab s:common tail_log
+ 1940  git add .
+ 1941  git common -m 'update'
+ 1942  git commit -m 'update'
+ 1943  git push
+ 1944  fab s:common chiki
+ 1945  fab chiki
+ 1946  fab s:common simi
+ 1947  export SIMI_DIR="/home/joker/git/web/simi"
+ 1948  export CHIKI_DIR="/home/joker/git/web/chiki"
+ 1949  fab s:common simi chiki restart restart_back
+ 1950  fab s:common
+ 1951  fab s:common tail_log
+ 1952  fab s:common nginx nginx_front sdist restart restart_back
+ 1953  fab s:common tail_log
+ 1954  git add . && git commit -m 'update'
+ 1955  git push
+ 1956  fab s:commoncreate_env
+ 1957  fab s:common create_env restart restart_back
+ 1958  fab ssh
+ 1959  fab s:common tail_log
+ 1960  cd ../../simi/
+ 1961  pwd
+ 1962  git pull
+ 1963  cd ../chiki
+ 1964  git pull
+ 1965  workon dev
+ 1966  python setup.py install
+ 1967  cd git/web/xmouse/
+ 1968  git pull
+ 1969  git status
+ 1970  git checkout .
+ 1971  git pull
+ 1972  git status
+ 1973  git checkout .
+ 1974  git status
+ 1975  git checkout templates/admin/domain/
+ 1976  git pull
+ 1977  git checkout .
+ 1978  git pull
+ 1979  git stus
+ 1980  git status
+ 1981  git pull origin master
+ 1982  git branch
+ 1983  ls
+ 1984  git pull
+ 1985  workon dev
+ 1986  cd deploy/
+ 1987  fab s:common create_env
+ 1988  fab s:common pip
+ 1989  fab s:common deploy
+ 1990  fab s:common restart restart_back
+ 1991  fab s:common tail_log
+ 1992  fab s:common sdist:copy=True,media="data/fonts data/code/001.jpg"
+ 1993  fab s:common restart restart_back
+ 1994  git add .
+ 1995  git commit -m 'update'
+ 1996  git push
+ 1997  git lg
+ 1998  git pull
+ 1999  history >history

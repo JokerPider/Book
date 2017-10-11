@@ -1,32 +1,24 @@
-﻿技术栈：
+﻿studyplan = [
+	"flask", 
+	"nginx", 
+	"javascrip",
+	"typescript",
+	"egret"			//<————
+]
 
-	语    法： 	迭代器，@装饰器，yield，socket
-	数    据： 	MySQL，MongoDB，(Redis)
-	运    维： 	nginx，uwsgi, (分布式系统)
-	系    统： 	Ubuntu, shell(, docker)
-	框    架：	flask(，Django, Tornado)
-	前    端：	HTML，CSS，JavaScript，jQuery，bootstrap
-	游    戏：	Egret
-	算    法：	？
-	数据结构：	？
+plan = [
+	{front: ["微信公众号", ["贪吃蛇", "俄罗斯方块"]]},
+	{backstage: ["flask", "mongodb"]},
+	{server: ["nginx"]}
+]
+======================================================
+作息安排:
+
+	18:00	去吃饭
+	19:30	运动（跑步）
+	20:30	读书
 
 ======================================================
-
-学习计划：
-
-	flask
-		bootstrap
-			HTML
-			CSS
-			jQuery
-		Javastript
-		nginx
-	egret
-		typescript <————
-	域名/服务器
-	
-=======================================================
-
 工作日志：	
 	2017/9/25：
 		// xshoot, quiz 部署到正式服务器

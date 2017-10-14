@@ -25,6 +25,12 @@ target:
 	算 法：	？
 }; flask + gunicorn + nginx
 
+部署Python网站：https://www.zhihu.com/question/21888077
+Nginx、Gunicorn服务器作用：https://www.zhihu.com/question/38528616
+
+
+
+
 
 
 技术栈_PHP = [

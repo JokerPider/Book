@@ -10,8 +10,10 @@ target:
 	网易云音乐の推荐算法工程师
 	人工智能专家
 
+	钱多事少离家近，位高权重责任轻。
+
 ======================================================
-技术栈 = {
+技术栈_python = {
 
 	语 法： 迭代器，@装饰器，yield，socket
 	数 据： MySQL，MongoDB，(Redis)
@@ -21,4 +23,19 @@ target:
 	前 端：	HTML，CSS，JavaScript，jQuery，bootstrap
 	游 戏：	Egret
 	算 法：	？
-}
+}; flask + gunicorn + nginx
+
+
+
+技术栈_PHP = [
+	PHP集成环境，
+	PHP语法，
+	LNMP，
+	html+css+js，
+	MySQL数据库，
+	Nginx/，
+	{教程：[
+		"https://www.zhihu.com/question/20034403",
+	]}
+]
+
